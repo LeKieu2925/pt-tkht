@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background: linear-gradient(to right, #1E90FF, #87CEFA);
 }
 header {
-    background: #ff66b2;
+    background: #1E90FF;
     color: white;
     text-align: center;
     padding: 1em;
@@ -13,7 +13,7 @@ header {
 nav ul {
     list-style: none;
     padding: 0;
-    background: #ff99cc;
+    background: #4682B4;
     display: flex;
     justify-content: center;
 }
@@ -39,6 +39,6 @@ th, td {
     text-align: left;
 }
 th {
-    background: #ff66b2;
+    background: #1E90FF;
     color: white;
 }
